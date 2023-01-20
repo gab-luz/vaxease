@@ -1,3 +1,5 @@
+VaxEase
+
 Our open-source vaccination software is designed to streamline the process of scheduling, administering, and tracking vaccinations. It features an easy-to-use interface that allows medical staff to schedule appointments, check-in patients, administer vaccines, update patient information, and generate reports. The software also includes inventory management tools to help track vaccine stocks and expiration dates.
 
 Our software is built using open-source technologies and can be easily integrated with existing electronic medical record systems. It is designed to be flexible and customizable, so it can be adapted to meet the unique needs of any vaccination program.
